@@ -1,0 +1,216 @@
+@media (max-width:768px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 375px
+  }
+  .style1 {
+    background-color: #000;
+    opacity: .5031920075416565;
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 396px;
+    height: 832px;
+    flex-direction: column
+  }
+  .style16 {
+    background-color: #fcfeff;
+    margin-left: 105px;
+    margin-top: 373px;
+    width: 0;
+    height: 0
+  }
+  .style8 {
+    background-color: #1469ad;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    display: flex;
+    margin-top: 320px;
+    width: 167px;
+    height: 38px;
+    align-items: center;
+    align-self: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style7,
+  .style9 {
+    color: #fff;
+    font-family: sfuitext,serif;
+    font-size: 1.25em;
+    height: 26px
+  }
+  .style7 {
+    font-family: sfuidisplay,serif;
+    font-size: .6875em;
+    font-weight: 300;
+    margin-top: 27px;
+    height: 14px;
+    align-self: center
+  }
+}
+@media (min-width:768px) and (max-width:920px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 768px
+  }
+  .style1 {
+    background-color: #000;
+    opacity: .5031920075416565;
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 811px;
+    height: 1704px;
+    flex-direction: column
+  }
+  .style16 {
+    background-color: #fcfeff;
+    margin-left: 215px;
+    margin-top: 764px;
+    width: 0;
+    height: 0
+  }
+  .style8 {
+    background-color: #1469ad;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    display: flex;
+    margin-top: 655px;
+    width: 342px;
+    height: 78px;
+    align-items: center;
+    align-self: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style7,
+  .style9 {
+    color: #fff;
+    font-family: sfuitext,serif;
+    font-size: 2.56em;
+    height: 53px
+  }
+  .style7 {
+    font-family: sfuidisplay,serif;
+    font-size: 1.408em;
+    font-weight: 300;
+    margin-top: 55px;
+    height: 29px;
+    align-self: center
+  }
+}
+@media (min-width:920px) and (max-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 920px
+  }
+  .style1 {
+    background-color: #000;
+    opacity: .5031920075416565;
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 972px;
+    height: 2041px;
+    flex-direction: column
+  }
+  .style16 {
+    background-color: #fcfeff;
+    margin-left: 258px;
+    margin-top: 915px;
+    width: 0;
+    height: 0
+  }
+  .style8 {
+    background-color: #1469ad;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    display: flex;
+    margin-top: 785px;
+    width: 410px;
+    height: 93px;
+    align-items: center;
+    align-self: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style7,
+  .style9 {
+    color: #fff;
+    font-family: sfuitext,serif;
+    font-size: 3.0666666666666664em;
+    height: 64px
+  }
+  .style7 {
+    font-family: sfuidisplay,serif;
+    font-size: 1.6866666666666665em;
+    font-weight: 300;
+    margin-top: 66px;
+    height: 34px;
+    align-self: center
+  }
+}
+@media (min-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px
+  }
+  .style1 {
+    background-color: #000;
+    opacity: .5031920075416565;
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 1267px;
+    height: 2662px;
+    flex-direction: column
+  }
+  .style16 {
+    background-color: #fcfeff;
+    margin-left: 336px;
+    margin-top: 1194px;
+    width: 0;
+    height: 0
+  }
+  .style8 {
+    background-color: #1469ad;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    display: flex;
+    margin-top: 1024px;
+    width: 534px;
+    height: 122px;
+    align-items: center;
+    align-self: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style7,
+  .style9 {
+    color: #fff;
+    font-family: sfuitext,serif;
+    font-size: 4em;
+    height: 83px
+  }
+  .style7 {
+    font-family: sfuidisplay,serif;
+    font-size: 2.2em;
+    font-weight: 300;
+    margin-top: 86px;
+    height: 45px;
+    align-self: center
+  }
+}
